@@ -13,8 +13,9 @@
         tools:showIn="@layout/activity_main"
         tools:context="com.ylf.myapplication.MainActivity">
 
-    <TextView
-            android:text="Hello World!"
+    <Button
+            android:id="@+id/firstButton"
+            android:text="发送http请求"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"/>
 </RelativeLayout>
