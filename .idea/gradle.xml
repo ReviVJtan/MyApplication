@@ -18,6 +18,19 @@
             <option value="$PROJECT_DIR$/app8" />
           </set>
         </option>
+        <option name="myModules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/app2" />
+            <option value="$PROJECT_DIR$/app3" />
+            <option value="$PROJECT_DIR$/app4" />
+            <option value="$PROJECT_DIR$/app5" />
+            <option value="$PROJECT_DIR$/app6" />
+            <option value="$PROJECT_DIR$/app7" />
+            <option value="$PROJECT_DIR$/app8" />
+          </set>
+        </option>
       </GradleProjectSettings>
     </option>
   </component>
