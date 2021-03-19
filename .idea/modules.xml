@@ -2,17 +2,18 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MyApplication.iml" filepath="$PROJECT_DIR$/MyApplication.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app2/app2.iml" filepath="$PROJECT_DIR$/app2/app2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app3/app3.iml" filepath="$PROJECT_DIR$/app3/app3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app4/app4.iml" filepath="$PROJECT_DIR$/app4/app4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app5/app5.iml" filepath="$PROJECT_DIR$/app5/app5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app6/app6.iml" filepath="$PROJECT_DIR$/app6/app6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app7/app7.iml" filepath="$PROJECT_DIR$/app7/app7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app8/app8.iml" filepath="$PROJECT_DIR$/app8/app8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/download/download.iml" filepath="$PROJECT_DIR$/download/download.iml" />
-      <module fileurl="file://$PROJECT_DIR$/sqlite3/sqlite3.iml" filepath="$PROJECT_DIR$/sqlite3/sqlite3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/MyApplication.iml" filepath="$PROJECT_DIR$/.idea/modules/MyApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app2/app2.iml" filepath="$PROJECT_DIR$/.idea/modules/app2/app2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app3/app3.iml" filepath="$PROJECT_DIR$/.idea/modules/app3/app3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app4/app4.iml" filepath="$PROJECT_DIR$/.idea/modules/app4/app4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app5/app5.iml" filepath="$PROJECT_DIR$/.idea/modules/app5/app5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app6/app6.iml" filepath="$PROJECT_DIR$/.idea/modules/app6/app6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app7/app7.iml" filepath="$PROJECT_DIR$/.idea/modules/app7/app7.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app8/app8.iml" filepath="$PROJECT_DIR$/.idea/modules/app8/app8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/download/download.iml" filepath="$PROJECT_DIR$/.idea/modules/download/download.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/sqlite3/sqlite3.iml" filepath="$PROJECT_DIR$/.idea/modules/sqlite3/sqlite3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wifiManager/wifiManager.iml" filepath="$PROJECT_DIR$/wifiManager/wifiManager.iml" />
     </modules>
   </component>
 </project>

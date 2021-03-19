@@ -3,8 +3,9 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="D:\Android\android-studio\gradle\gradle-2.14.1" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
@@ -18,6 +19,7 @@
             <option value="$PROJECT_DIR$/app8" />
             <option value="$PROJECT_DIR$/download" />
             <option value="$PROJECT_DIR$/sqlite3" />
+            <option value="$PROJECT_DIR$/wifiManager" />
           </set>
         </option>
         <option name="myModules">
@@ -33,6 +35,7 @@
             <option value="$PROJECT_DIR$/app8" />
             <option value="$PROJECT_DIR$/download" />
             <option value="$PROJECT_DIR$/sqlite3" />
+            <option value="$PROJECT_DIR$/wifiManager" />
           </set>
         </option>
       </GradleProjectSettings>
