@@ -74,7 +74,7 @@ public class FileUtils {
 
         try {
             createSDDir(path);
-            file = createSDFile(path + fileName);
+            file = createSDFile(path + File.separator + fileName);
             output = new FileOutputStream(file);
 
             byte[] buffer = new byte[4 * 1024];
