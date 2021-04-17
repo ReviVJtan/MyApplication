@@ -16,6 +16,7 @@
       <module fileurl="file://$PROJECT_DIR$/memoryTest/memoryTest.iml" filepath="$PROJECT_DIR$/memoryTest/memoryTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/myToolbar/myToolbar.iml" filepath="$PROJECT_DIR$/myToolbar/myToolbar.iml" />
       <module fileurl="file://$PROJECT_DIR$/sqlite3/sqlite3.iml" filepath="$PROJECT_DIR$/sqlite3/sqlite3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabTest/tabTest.iml" filepath="$PROJECT_DIR$/tabTest/tabTest.iml" />
       <module fileurl="file://$PROJECT_DIR$/wifiManager/wifiManager.iml" filepath="$PROJECT_DIR$/wifiManager/wifiManager.iml" />
     </modules>
   </component>
