@@ -1,0 +1,33 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+    <style name="AppTheme.NoActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+    </style>
+    <style name="AppTheme.AppBarOverlay" parent="ThemeOverlay.AppCompat.Dark.ActionBar" />
+    <style name="AppTheme.PopupOverlay" parent="ThemeOverlay.AppCompat.Light" />
+    <!-- 自定义主题 NoActionBar -->
+    <style name="MyAppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#4876FF</item>
+        <item name="colorPrimaryDark">#3A5FCD</item>
+        <item name="colorAccent">@android:color/white</item>
+        <!-- 调用自定义菜单主题 -->
+        <item name="actionOverflowMenuStyle">@style/MyMenuStyle</item>
+    </style>
+    <!-- 自定义菜单主题 继承Widget.AppCompat.Light.PopupMenu.Overflow" -->
+    <style name="MyMenuStyle" parent="@style/Widget.AppCompat.Light.PopupMenu.Overflow">
+        <!-- 设置弹出菜单不覆盖标题栏 -->
+        <item name="overlapAnchor">false</item>
+        <!-- 设置弹出菜单背景色 -->
+        <item name="android:popupBackground">?attr/colorPrimary</item>
+        <!-- 设置弹出菜单与标题栏的距离 -->
+        <item name="android:dropDownVerticalOffset">0dip</item>
+    </style>
+</resources>
